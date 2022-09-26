@@ -1,0 +1,13 @@
+.filter {
+  padding: 20px;
+  margin: 20px;
+  font-size: 16px;
+  font-weight: 500;
+}
+.filterLabel {
+  padding: 20px;
+  margin: 20px;
+}
+.filterInput {
+  height: 25px;
+}
